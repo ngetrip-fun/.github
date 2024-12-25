@@ -51,6 +51,20 @@ Rencanain trip tanpa ribet. Semua udah kita siapin di platform ini.
 
 ---
 
+## Dibalik Layar 👨‍💻
+
+Dibangun oleh:  
+**Novin Ardian Y.** - Project Manager  
+📧 [novin@ngetrip.fun](mailto:work.novinn@gmail.com) | [GitHub](https://github.com/novinbukannopin)
+
+**RM. Syaikhan RP** - Frontend Engineer  
+📧 [sehan@ngetrip.fun](mailto:work.novinn@gmail.com) | [GitHub](https://github.com/radensyaikhan)
+
+**Achmad Habib** - Backend Engineer  
+📧 [habib@ngetrip.fun](mailto:work.novinn@gmail.com) | [GitHub](https://github.com/AchmadHabib123)
+
+---
+
 ## Punya Pertanyaan?
 
 Kalau ada yang bingung atau pengen saran, kontak kami aja:
